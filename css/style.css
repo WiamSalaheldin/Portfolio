@@ -586,3 +586,15 @@ form p label {
             text-transform: uppercase;
             font-size: 14px;
         }
+
+
+@media (max-width: 575.98px) {
+  .description {
+    left: 0;
+    padding: 0 15px;
+    position: absolute;
+    top: 10%;
+    transform: none;
+    text-align: center;
+  }
+}
